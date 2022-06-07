@@ -1,4 +1,4 @@
-## Me chamo Leandro Sobral, hoje trabalho com suporte de infraestrutura e quero migrar para área de desenvolvimento. Não almeja grandes cargos, sou do tipo de dar um passo de cada vez e hoje um estágio está de bom tamanho para ir botando em prática tudo que venho aprendendo. ##
+## Me chamo Leandro Sobral, hoje trabalho com suporte de infraestrutura e quero migrar para área de desenvolvimento. Não almejo grandes cargos, sou do tipo de dar um passo de cada vez e hoje um estágio está de bom tamanho para ir botando em prática tudo que venho aprendendo. ##
 
 
 <div align="center">
