@@ -1,4 +1,4 @@
-## Me chamo Leandro Sobral, hoje trabalho com suporte de infraestrutura e quero migrar para área de desenvolvimento. Não almejo grandes cargos, sou do tipo de dar um passo de cada vez e hoje um estágio está de bom tamanho para ir botando em prática tudo que venho aprendendo. ##
+## Me chamo Leandro Sobral, cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá e também estou cursando Web Full Stack na Digital House. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. ##
 
 
 <div align="center">
