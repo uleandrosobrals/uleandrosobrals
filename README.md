@@ -28,6 +28,8 @@
 
 <img align="center" alt="Leandro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
 
+<img align="center" alt="Leandro-Express"  src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'  />
+
 </div>
 
 
