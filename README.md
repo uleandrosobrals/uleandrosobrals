@@ -43,7 +43,7 @@
 ### Códigos
 <p>Meu portfólio está sendo criado, mas tenho alguns projetos e você pode encontrar alguns deles <a href="https://github.com/uleandrosobrals?tab=repositories"><strong>AQUI!</strong></a> </p>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/uleandrosobrals">
 
