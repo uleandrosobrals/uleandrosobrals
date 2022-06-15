@@ -60,15 +60,11 @@
 
 
 
- <div>
-   
-<li>
+<div>
 <a href='mailto:leosobral.dev@gmail.com?subject=Oi%20Iago'>
 	<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' />
-</a></li>
- <li><a href='https://www.linkedin.com/in/ulss/'>
+</a>
+<a href='https://www.linkedin.com/in/ulss/'>
 	<img align="left" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />
-</a></li>
-    
-    
+</a>
 </div>
