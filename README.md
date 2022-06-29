@@ -61,7 +61,7 @@
 
 
 <div>
-<a href='mailto:leosobral.dev@gmail.com?subject=Oi%20Iago'>
+<a href='mailto:leosobral.dev@gmail.com?subject=Oi%20Leandro'>
 	<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' />
 </a>
 <a href='https://www.linkedin.com/in/ulss/'>
