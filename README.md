@@ -2,7 +2,7 @@
 
 ### Quem é Leandro?
 
-<p>Cursa Análise e Desenvolvimento de Sistemas na Estácio de Sá e também Web Full Stack na Digital House.</p> 
+<p>Cursa Análise e Desenvolvimento de Sistemas na Estácio de Sá.</p> 
 <p>É apaixonado por tecnologia, está sempre em busca de novos conhecimentos e comprometido com resultados.
 </p>
 
