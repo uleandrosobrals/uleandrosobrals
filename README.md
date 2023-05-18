@@ -36,5 +36,5 @@ Você pode entrar em contato comigo pelos seguintes meios:
 
 - [E-mail](mailto:leosobral.dev@gmail.com?subject=Oi%20Leandro)
 - [LinkedIn](https://www.linkedin.com/in/ulss/)
-- [WhatsApp](https://api.whatsapp.com/send?phone=79981447870)
+- [WhatsApp](https://api.whatsapp.com/send?phone=5579981447870)
 
